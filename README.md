@@ -6,6 +6,7 @@ Este programa es una aplicación de consola desarrollada en Java aplicando la ar
 
 El sistema está organizado por paquetes para garantizar el orden y la separación de funcionalidades:
 
+```text
 src/
 └── practicaInicial/
     ├── excepciones/
@@ -30,6 +31,7 @@ src/
     ├── Controlador.java
     ├── Vista.java
     └── Main.java
+```
 
 ## Funcionalidad Extra Implementada: Persistencia Alternativa (CSV)
 
